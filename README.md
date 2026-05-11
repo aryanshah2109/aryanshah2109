@@ -16,7 +16,7 @@ I build end-to-end AI systems with a focus on retrieval-augmented generation, se
 
 - 🔭 Currently building **GitExplore** — a RAG system for natural language Q&A over GitHub repositories
 - 🌱 Deep-diving into **LLMs, agentic AI workflows, hybrid search, and MLOps**
-- 💬 Ask me about **RAG architecture, hybrid retrieval (BM25 + dense), AST chunking, or ML deployment**
+- 💬 Ask me about **RAG architecture, hybrid retrieval (BM25 + dense), or ML deployment**
 - ⚡ I love building tools that automate my own problems — then turning them into full projects
 
 ---

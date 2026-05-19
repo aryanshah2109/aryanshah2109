@@ -1,0 +1,14 @@
+{
+  "aryanshah2109": "ML Engineer | RAG Systems | Full-Stack AI. Building production-grade AI systems with focus on retrieval-augmented generation, semantic search, and MLOps.",
+  "AWP-Project": "College ERP system with role-based access (admin/faculty/student), built with Node.js, Express, MongoDB. Features student management, attendance tracking, and resource sharing.",
+  "DSA-Codes": "Comprehensive Data Structures & Algorithms implementations in Python. Includes sorting, searching, trees, graphs, and dynamic programming with detailed solutions.",
+  "ExamEcho-Ollama": "AI microservice for examination platform with local LLM inference (Ollama), speech-to-text, text-to-speech, auto-evaluation, and rubric generation using mistral:7b.",
+  "GenAI_Codes": "Generative AI learning & experiments in Jupyter Notebooks. Covers LLM prompting, RAG patterns, embeddings, and AI applications.",
+  "MLOPS_MLFlow": "MLOps workflow using MLflow for experiment tracking, model versioning, and artifact management. Demonstrates best practices in machine learning operations.",
+  "My_codes": "Collection of ML & data science learning projects. Includes data preprocessing, model training, visualization, and exploratory analysis across various domains.",
+  "Portfolio": "Personal portfolio website built with HTML, CSS, JavaScript, Node.js. Features email-enabled contact form, fully responsive design, deployed on Vercel.",
+  "PRODIGY_ML": "Prodigy InfoTech ML internship projects: house price prediction (linear regression), customer segmentation (K-means), and hand gesture recognition (CNN).",
+  "Projects": "Machine learning and data science projects portfolio. Includes supervised/unsupervised learning, NLP, and computer vision tasks with full pipeline implementations.",
+  "Vehicle-Insurance-Prediction": "ML classification model predicting vehicle insurance eligibility. Demonstrates feature engineering, model selection, and evaluation on real-world dataset.",
+  "VeriLearn": "EdTech RAG system retrieving answers strictly from textbooks using hybrid search (BM25 + dense embeddings), fine-tuned embeddings, and reranking for accurate, syllabus-aligned responses."
+}
